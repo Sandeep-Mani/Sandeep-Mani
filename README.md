@@ -4,10 +4,10 @@ I'm Sandeep Mani a Full Stack Developer. I Spend most of time coding outstanding
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@sandeep__mani__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sandeep_mani_)](https://twitter.com/sandeep_mani_) 
-[![Linkedin Badge](https://img.shields.io/badge/-Sandeep-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-mani-kumar-kushwaha/) 
+[![Linkedin Badge](https://img.shields.io/badge/-@sandeep--mani--kumar--kushwaha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-mani-kumar-kushwaha/) 
+[![Mail Badge](https://img.shields.io/badge/-sandeepmani2312@-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sandeepmani2312@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@sandeep__mani__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sandeep_mani_)](https://twitter.com/sandeep_mani_)
 [![Mail Badge](https://img.shields.io/badge/-@sandy__eep__-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/sandy_eep_) 
-[![Mail Badge](https://img.shields.io/badge/-sandeep-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sandeepmani2312@gmail.com)
 
 - 🔭 I’m currently working at [@PersystentSystems](https://github.com/persistentsystems)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
@@ -22,8 +22,9 @@ I'm Sandeep Mani a Full Stack Developer. I Spend most of time coding outstanding
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&labelColor=black&logo=spring&logoColor=white)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](#)
+[![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&labelColor=black&logo=Apache%20Maven&logoColor=white)](#)
+[![NPM](https://img.shields.io/badge/NPM-red.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#)
 
 
 #### Profile Visits 
