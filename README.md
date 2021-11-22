@@ -12,7 +12,7 @@ I'm Sandeep Mani a Full Stack Developer. I Spend most of time coding outstanding
 - 🔭 I’m currently working at [@PersystentSystems](https://github.com/persistentsystems)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: sandeepmani2312@gmail.com.
-- 😄 Pronouns: sandy, sandeep.
+- 😄 Pronouns: he/him, sandy, sandeep.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### Top Technologies
