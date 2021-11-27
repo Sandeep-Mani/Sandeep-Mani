@@ -4,12 +4,12 @@ I'm Sandeep Mani a Full Stack Developer. I Spend most of time coding outstanding
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-@sandeep--mani--kumar--kushwaha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedIn] 
-[![Mail Badge](https://img.shields.io/badge/-sandeepmani2312@-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail]
-[![Twitter Badge](https://img.shields.io/badge/-@sandeep__mani__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sandeep_mani_)][twitter]
-[![Mail Badge](https://img.shields.io/badge/-@sandy__eep__-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][insta] 
+[![Linkedin Badge](https://img.shields.io/badge/-@sandeep--mani--kumar--kushwaha-0e76a8?style=plastic&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedIn] 
+[![Mail Badge](https://img.shields.io/badge/-sandeepmani2312@-c0392b?style=plastic&labelColor=c0392b&logo=gmail&logoColor=white)][gmail]
+[![Twitter Badge](https://img.shields.io/badge/-@sandeep__mani__-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sandeep_mani_)][twitter]
+[![Mail Badge](https://img.shields.io/badge/-@sandy__eep__-e84393?style=plastic&labelColor=e84393&logo=instagram&logoColor=white)][insta] 
 
-- 🔭 I’m currently working at [@PersystentSystems][persistent_github]
+- 🔭 I'm currently working at [@PersystentSystems][persistent_github]
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: sandeepmani2312@gmail.com
 - 😄 Pronouns: he/him, sandy, sandeep.
@@ -25,8 +25,8 @@ I'm Sandeep Mani a Full Stack Developer. I Spend most of time coding outstanding
 [![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&labelColor=black&logo=Apache%20Maven&logoColor=C71A36)](#)
 [![NPM](https://img.shields.io/badge/NPM-red.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=%23F05033)](#)
-
-
+[![MySQL](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&labelColor=black&logo=mysql&logoColor=orange)](#)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)](#)
 ### Profile Visits:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sandeep-Mani.visitor-badge)
@@ -37,7 +37,7 @@ I'm Sandeep Mani a Full Stack Developer. I Spend most of time coding outstanding
 </summary>
 
 
-I'm a passionate developer, with a demonstrated history of working in the information technology and services industry. But more importantly I’m passionate about technology, and bring ideas from skills and professional experience. Build, test and deploy scalable, highly available and modular software product.
+I'm a passionate developer, with a demonstrated history of working in the information technology and services industry. But more importantly I'm passionate about technology, and bring ideas from skills and professional experience. Build, test and deploy scalable, highly available and modular software product.
 
 
 ![Sandeep's github stats](https://github-readme-stats.vercel.app/api?username=Sandeep-Mani&count_private=true&theme=tokyonight&hide=contribs,prs)
