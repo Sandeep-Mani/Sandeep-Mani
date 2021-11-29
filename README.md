@@ -10,7 +10,7 @@ I'm Sandeep Mani, a full stack product developer. I Spend most of time coding ou
 [![Mail Badge](https://img.shields.io/badge/-@sandy__eep__-e84393?style=plastic&labelColor=e84393&logo=instagram&logoColor=white)][insta] 
 
 
-- 🔭 I'm currently working at [Persystent Systems Ltd.][persistentsystems]
+- 🔭 I'm currently working at [Persistent Systems Ltd.][persistentsystems]
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: sandeepmani2312@gmail.com
 - 😄 Pronouns: [He/Him][he-him], sandy, sandeep.
