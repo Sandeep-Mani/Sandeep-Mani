@@ -53,7 +53,8 @@ I'm Sandeep Mani, a full stack product developer. I Spend most of time coding ou
 I'm a passionate developer, with a demonstrated history of working in the information technology and services industry. But more importantly I'm passionate about technology, and bring ideas from skills and professional experience. Build, test and deploy scalable, highly available and modular software product.
 
 
-![Sandeep's github stats](https://github-readme-stats.vercel.app/api?username=Sandeep-Mani&count_private=true&theme=tokyonight&hide=contribs,prs)
+[![Sandeep's github stats](https://github-readme-stats.vercel.app/api?username=Sandeep-Mani&count_private=true&theme=tokyonight)](#)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-mani&layout=compact&hide=css,html)](#)
 
 </details>
 
