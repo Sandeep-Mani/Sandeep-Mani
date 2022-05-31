@@ -10,7 +10,7 @@ I'm [Sandeep Mani](https://sandeep-mani.github.io/), a full stack product develo
 [![Mail Badge](https://img.shields.io/badge/-@sandy__eep__-e84393?style=plastic&labelColor=e84393&logo=instagram&logoColor=white)][insta] 
 
 
-- 🔭 I'm currently working at [Persistent Systems Ltd.][persistentsystems]
+- 🔭 I'm currently working at [Oracle][oracle]
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: sandeepmani2312@gmail.com
 - 😄 Pronouns: [He/Him][he-him], sandy, sandeep.
@@ -63,6 +63,6 @@ I'm a passionate developer, with a demonstrated history of working in the inform
 [gmail]:mailto:sandeepmani2312@gmail.com "Gmail"
 [twitter]:https://twitter.com/sandeep_mani_ "Twitter"
 [insta]:https://instagram.com/sandy_eep_ "Instagram"
-[persistentsystems]:https://github.com/persistentsystems "Persistent System Ltd."
+[oracle]:https://github.com/oracle "Persistent System Ltd."
 [he-him]:https://www.mypronouns.org/he-him
 [aws_codeguru]:https://aws.amazon.com/codeguru/
