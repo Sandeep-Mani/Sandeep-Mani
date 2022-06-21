@@ -63,6 +63,6 @@ I'm a passionate developer, with a demonstrated history of working in the inform
 [gmail]:mailto:sandeepmani2312@gmail.com "Gmail"
 [twitter]:https://twitter.com/sandeep_mani_ "Twitter"
 [insta]:https://instagram.com/sandy_eep_ "Instagram"
-[oracle]:https://github.com/oracle "Persistent System Ltd."
+[oracle]:https://github.com/oracle "Oracle IDC"
 [he-him]:https://www.mypronouns.org/he-him
 [aws_codeguru]:https://aws.amazon.com/codeguru/
