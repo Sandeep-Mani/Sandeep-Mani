@@ -15,7 +15,7 @@ I'm [Sandeep Mani](https://sandeep-mani.github.io/), a full stack product develo
 - 📫 How to reach me: sandeepmani2312@gmail.com
 - 😄 Pronouns: [He/Him][he-him], sandy, sandeep.
 - ⚡ Fun fact: I play games and go to the GYM very often.
-- 🌏 Bangalore, India.
+- 🌏 Bengaluru, India.
 
 ### 🚀💻 Technologies & Tools
 
