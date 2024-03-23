@@ -39,8 +39,6 @@ I'm [Sandeep Mani](https://sandeep-mani.github.io/), a full stack product develo
 [![Windows](https://img.shields.io/badge/-Windows-blue?style=for-the-badge&labelColor=black&logo=windows&logoColor=white)](#)
 
 ### Profile:
-
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=Sandeep-Mani.visitor-badge&label=Visitors)](#)
 [![updated](https://img.shields.io/github/last-commit/sandeep-mani/sandeep-mani?label=Updated&style=flat-square")](#)
 [![website](https://img.shields.io/website-up-down-green-red/https/sandeep-mani.github.io)](https://sandeep-mani.github.io "Portfolio")
 
