@@ -1,6 +1,12 @@
 # Hi, I'm [Sandeep](https://sandeep-mani.github.io/) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm a full stack product developer. I Spend most of time coding outstanding projects.
+- 🔭 I'm currently working at [Oracle][oracle]
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 📫 How to reach me: sandeepmani2312@gmail.com
+- 😄 Pronouns: [He/Him][he-him], sandy, sandeep.
+- ⚡ Fun fact: I play games and go to the GYM very often.
+- 🌏 Bengaluru, India.
 
 ### :mailbox: Reach me out:
 
@@ -9,13 +15,7 @@ I'm a full stack product developer. I Spend most of time coding outstanding proj
 [![Twitter Badge](https://img.shields.io/badge/-@sandeep__mani__-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sandeep_mani_)][twitter]
 [![Mail Badge](https://img.shields.io/badge/-@sandy__eep__-e84393?style=plastic&labelColor=e84393&logo=instagram&logoColor=white)][insta] 
 
-
-- 🔭 I'm currently working at [Oracle][oracle]
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me: sandeepmani2312@gmail.com
-- 😄 Pronouns: [He/Him][he-him], sandy, sandeep.
-- ⚡ Fun fact: I play games and go to the GYM very often.
-- 🌏 Bengaluru, India.
+---
 
 ### 🚀💻 Technologies & Tools
 
