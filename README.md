@@ -1,4 +1,4 @@
-# Hi, I'm [Sandeep](https://sandeep-mani.github.io/) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hi">, I'm [Sandeep](https://sandeep-mani.github.io/)
 
 I'm a full stack product developer. I Spend most of time coding outstanding projects.
 - 🔭 I'm currently working at [Oracle][oracle]
@@ -19,24 +19,26 @@ I'm a full stack product developer. I Spend most of time coding outstanding proj
 
 ### 🚀💻 Technologies & Tools
 
-[![Java](https://img.shields.io/badge/-java-%23ED8B00.svg?style=for-the-badge&labelColor=black&logo=java&logoColor=%23ED8B00)](# "twitter")
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=3670A0)](#)
+[![Java](https://img.shields.io/badge/-java-%23ED8B00.svg?style=for-the-badge&labelColor=black&logo=java&logoColor=%23ED8B00)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=3670A0)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![bash](https://img.shields.io/badge/-bash-green?style=for-the-badge&labelColor=black&logo=GNU-Bash&logoColor=green)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 
-[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&labelColor=black&logo=spring&logoColor=%236DB33F)](#)
-[![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&labelColor=black&logo=Apache%20Maven&logoColor=C71A36)](#)
-[![NPM](https://img.shields.io/badge/NPM-red.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=%23F05033)](#)
-[![MySQL](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&labelColor=black&logo=mysql&logoColor=orange)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform&labelColor=black)](#)
 [![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&labelColor=black)](#)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=%23F05033)](#)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](#)
+[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&labelColor=black&logo=spring&logoColor=%236DB33F)](#)
+[![NPM](https://img.shields.io/badge/NPM-red.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=white)](#)
+[![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&labelColor=black&logo=Apache%20Maven&logoColor=C71A36)](#)
+[![MySQL](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&labelColor=black&logo=mysql&logoColor=orange)](#)
 
 [![Linux](https://img.shields.io/badge/-Linux-red?style=for-the-badge&labelColor=black&logo=Linux&logoColor=white)](#)
 [![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?style=for-the-badge&labelColor=black&logo=Apple&logoColor=white)](#)
 [![Windows](https://img.shields.io/badge/-Windows-blue?style=for-the-badge&labelColor=black&logo=windows&logoColor=white)](#)
+[![OMV](https://img.shields.io/badge/OMV-%235DACDF?style=for-the-badge&logo=openmediavault&labelColor=black)](#)
 
 ### Profile:
 [![updated](https://img.shields.io/github/last-commit/sandeep-mani/sandeep-mani?label=Updated&style=flat-square")](#)
